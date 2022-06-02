@@ -28,7 +28,7 @@
 <br>
 
 ###  Tools and Languages
-<img src="https://img.icons8.com/color/48/undefined/javascript--v1.png"/> <img src="https://img.icons8.com/dusk/64/undefined/php-logo.png"/> <img src="https://img.icons8.com/color/48/undefined/python--v1.png"/> <img src="https://img.icons8.com/color/48/undefined/sass.png"/> <img src="https://img.icons8.com/doodle/48/undefined/console--v2.png"/> <img src="https://img.icons8.com/ios-glyphs/48/undefined/markdown.png"/> <img src="https://img.icons8.com/plasticine/48/undefined/react.png"/> <img src="https://img.icons8.com/fluency/48/undefined/node-js.png"/>
+<img src="https://img.icons8.com/color/48/undefined/javascript--v1.png"/> <img src="https://img.icons8.com/dusk/64/undefined/php-logo.png"/> <img src="https://img.icons8.com/color/48/undefined/python--v1.png"/> <img src="https://img.icons8.com/color/48/undefined/sass.png"/> <img src="https://img.icons8.com/doodle/48/undefined/console--v2.png"/> <img src="https://img.icons8.com/ios-glyphs/48/undefined/markdown.png"/> <img src="https://img.icons8.com/plasticine/48/undefined/react.png"/> <img src="https://img.icons8.com/fluency/48/undefined/node-js.png"/> <img src="https://img.icons8.com/fluency/48/undefined/laravel.png"/>
 
 <br>
 

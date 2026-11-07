@@ -9,9 +9,14 @@
 
 <p align="center">
   <a href="https://ifeoluwa-onabajo.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/YOUR_HANDLE"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=36BCF7&label=PROFILE+VIEWS"/>
+  <a href="mailto:Ifeoluwaolamiji965@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/ifeoluwa-olamiji"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://twitter.com/atom_optimistic"><img src="https://img.shields.io/badge/X-000?style=for-the-badge&logo=x&logoColor=white"/></a>
+  <a href="https://t.me/Ai_Quad"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+</p>
+
+<p align="center">
+  <i>From the <code>Heart.Depth[Depth.Length - 1]</code> of my 💙, thanks for stopping by, fellow dev / recruiter / founder.</i>
 </p>
 
 ---
@@ -48,7 +53,17 @@ Rust → Solana         ░░░░░░░░░░░░░░░░░░�
 Agro-commodity models ░░░░░░░░░░░░░░░░░░░░  🎯 the end boss
 ```
 
-> I update these bars as I go. Watch the repos below fill them in.
+> The old me was curious about security tricks `0️⃣0️⃣1️⃣1️⃣0️⃣1️⃣0️⃣`. The new me points that curiosity at smart contract bugs.
+
+---
+
+### 🐮 When I'm not coding (or sleeping 💤)
+
+- 🐄 Farmer at heart: cattle, pigs and dogs 🐷🐶
+- 🐎 Lifelong lover of horses
+- 🗣️ Learning Japanese and Hausa
+- 📚 Crawling my way into being a reader
+- 🕺 Practicing my moves and pretending I'm not an introvert
 
 ---
 
@@ -69,12 +84,12 @@ Agro-commodity models ░░░░░░░░░░░░░░░░░░░�
 ### 📊 Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0d1117" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Optimistic965&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Optimistic965&theme=tokyonight&hide_border=true&background=0d1117" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-snake-dark.svg" alt="contribution snake" />
+  <img src="https://raw.githubusercontent.com/Optimistic965/Optimistic965/output/github-snake-dark.svg" alt="contribution snake" />
 </p>
 
 ---
@@ -84,5 +99,11 @@ Agro-commodity models ░░░░░░░░░░░░░░░░░░░�
 - need **payments integrated properly** (Stripe / Paystack / Flutterwave) or an app **deployed and running**
 - are hiring for **fullstack, backend, or junior quant / DeFi** roles
 - want to argue about **probability, commodity markets, or smart contract bugs**
+
+<p align="center"><b>I might be fun to be around, so don't miss out 😉 · Peace ✌️</b></p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Optimistic965&style=flat-square&color=36BCF7&label=profile+views"/>
+</p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%"/>

@@ -61,7 +61,7 @@ Agro-commodity models ░░░░░░░░░░░░░░░░░░░�
 
 - 🐄 Farmer at heart: cattle, pigs and dogs 🐷🐶
 - 🐎 Lifelong lover of horses
-- 🗣️ Learning Japanese and Hausa
+- 🇩🇪 Learning German
 - 📚 Crawling my way into being a reader
 - 🕺 Practicing my moves and pretending I'm not an introvert
 
@@ -81,11 +81,10 @@ Agro-commodity models ░░░░░░░░░░░░░░░░░░░�
 
 ---
 
-### 📊 Stats
+### 📈 Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Optimistic965&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Optimistic965&theme=tokyonight&hide_border=true&background=0d1117" height="165"/>
+  <img src="https://streak-stats.demolab.com/?user=Optimistic965&theme=tokyonight&hide_border=true&background=0d1117" height="165"/>
 </p>
 
 <p align="center">
